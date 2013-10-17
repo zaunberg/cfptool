@@ -1,0 +1,24 @@
+<submission>
+	<speaker>
+		<firstname>Jack</firstname>
+		<lastname>Testmaster</lastname>
+		<email>jack@test.com</email>
+		<twitter>myTwitterLink</twitter>
+		<xing>myXingLink</xing>
+		<company>Testmaster</company>
+		<about>I am a testmaster!</about>
+	</speaker>
+	<speaker>
+		<firstname>Max</firstname>
+		<lastname>Testmaxer</lastname>
+		<email>max@test.com</email>
+		<twitter>maxTwitterLink</twitter>
+		<xing>maxXingLink</xing>
+		<company>Testmaster</company>
+		<about>I am a maxmaster!</about>
+	</speaker>
+	<title>JUnit Tests</title>
+	<abstract>Test your App with JUnit.</abstract>
+	<language>de</language>
+	<type>short</type>
+</submission>

@@ -1,0 +1,17 @@
+<noSubmission>
+	<speaker>
+		<firstname>Jack</firstname>
+		<lastname>Testmaster</lastname>
+		<email>jack@test.com</email>
+		<twitter>myTwitterLink</twitter>
+		<xing>myXingLink</xing>
+		<company>Testmaster</company>
+		<about>I am a testmaster!</about>
+	</speaker>
+	<title>JUnit Tests</title>
+	<abstract>
+	Test your App with JUnit.
+	</abstract>
+	<language>de</language>
+	<type>short</type>
+</noSubmission>
